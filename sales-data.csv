@@ -1,0 +1,11 @@
+dt,company,transaction_type,amount
+2025-03-03,NVDA,buy,770
+2025-03-03,F,buy,2
+2025-03-03,INTC,buy,151
+2025-03-03,AAPL,buy,637
+2025-03-03,AMZN,buy,726
+2025-03-03,NVDA,sale,36
+2025-03-03,F,sale,404
+2025-03-03,INTC,sale,533
+2025-03-03,AAPL,sale,999
+2025-03-03,AMZN,sale,461
